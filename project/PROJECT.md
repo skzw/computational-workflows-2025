@@ -177,6 +177,17 @@ To ensure reproducibility, every run is logged, including:
 
 ---
 
+## Workflow Overview
+
+Below is a metro map visualization of the `nf-core/rnaseqleo` workflow, showing all major modules and their connections:
+<h1>
+  <picture>
+    <img src="RNAseqleo.drawio.png">
+  </picture>
+</h1>
+Each “station” represents one processing step in the RNA-seq analysis pipeline — from raw data fetching to transcript quantification and reporting.
+
+
 ## Citation
 
 - Di Tommaso *et al.* (2017) *Nextflow enables reproducible computational workflows.* *Nature Biotechnology.*
