@@ -1,7 +1,7 @@
 <h1>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="docs/images/nf-core-rnaseqleo_logo_dark.png">
-    <img alt="nf-core/rnaseqleo" src="docs/images/nf-core-rnaseqleo_logo_light.png">
+    <img alt="nf-core/rnaseqleo" src="nf-core-rnaseqleo_logo_light.png">
   </picture>
 </h1>
 
